@@ -61,7 +61,7 @@ jupyter lab
 - The `../datbrick` text corpora and the `../chatgpt/qa` JSON — so no real-data
   experiment is reproducible from this repo.
 - Any checkpoints, logs, or trained weights; any environment pin/lockfile; any
-  tests; any license.
+  tests.
 - The saved outputs of almost every notebook (only the two figures above).
 - One employer work artifact — see *Data governance*.
 
@@ -132,5 +132,5 @@ data with no saved results and no conclusion. Published only so the `cznn`
 evidence (two figures, two loss tables) is visible. Nothing here runs
 end-to-end.
 
-**License:** none declared — default copyright applies. This is personal
+**License:** AGPL-3.0-only; see [`LICENSE`](LICENSE). This is personal
 research code, not a redistribution-ready package.

@@ -1,3 +1,6 @@
+# Local agent workspace
+.pi/
+
 # Python
 __pycache__/
 *.py[cod]
